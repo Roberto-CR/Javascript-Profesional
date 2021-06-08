@@ -1,0 +1,24 @@
+{
+  "name": "javascript-profesional",
+  "version": "1.0.0",
+  "description": "Javascript profesional",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "keywords": [],
+  "author": "Jose Roberto Vargas Campos",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roberto-CR/Javascript-Profesional.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Roberto-CR/Javascript-Profesional/issues"
+  },
+  "homepage": "https://github.com/Roberto-CR/Javascript-Profesional#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
